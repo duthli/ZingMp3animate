@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         {
             (finished) in UIView.animateWithDuration(1, animations:
                 {
-                    self.lbl_text!.center = CGPointMake(self.logo!.center.x, 8.0)
+                    self.lbl_text!.center = CGPointMake(self.logo!.center.x, 80.0)
                     self.lbl_text!.alpha = 1
 
             })
