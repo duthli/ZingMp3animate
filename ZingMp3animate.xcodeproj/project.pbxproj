@@ -12,6 +12,7 @@
 		B28249C31D60100900A410D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B28249C11D60100900A410D5 /* Main.storyboard */; };
 		B28249C51D60100900A410D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B28249C41D60100900A410D5 /* Assets.xcassets */; };
 		B28249C81D60100900A410D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B28249C61D60100900A410D5 /* LaunchScreen.storyboard */; };
+		B28249D01D60104100A410D5 /* zing-mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B28249CF1D60104100A410D5 /* zing-mp3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B28249C41D60100900A410D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B28249C71D60100900A410D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B28249C91D60100900A410D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B28249CF1D60104100A410D5 /* zing-mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zing-mp3.jpg"; path = "../../../../Downloads/zing-mp3.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		B28249BC1D60100900A410D5 /* ZingMp3animate */ = {
 			isa = PBXGroup;
 			children = (
+				B28249CF1D60104100A410D5 /* zing-mp3.jpg */,
 				B28249BD1D60100900A410D5 /* AppDelegate.swift */,
 				B28249BF1D60100900A410D5 /* ViewController.swift */,
 				B28249C11D60100900A410D5 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B28249D01D60104100A410D5 /* zing-mp3.jpg in Resources */,
 				B28249C81D60100900A410D5 /* LaunchScreen.storyboard in Resources */,
 				B28249C51D60100900A410D5 /* Assets.xcassets in Resources */,
 				B28249C31D60100900A410D5 /* Main.storyboard in Resources */,
